@@ -23,7 +23,6 @@
 
 ## Screenshots
 
-## Screenshots
 
 <p align="center">
   <img src="screenshots/onboarding.jpeg" width="220" />
